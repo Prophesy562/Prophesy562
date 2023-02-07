@@ -9,3 +9,4 @@ Prophesy562/Prophesy562 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ![Logo outlaws - cop jpeg](https://user-images.githubusercontent.com/115191384/194434883-9eaa6d6f-d68c-45d0-8649-a79242505df0.jpg)
+![LOGO NEW](https://user-images.githubusercontent.com/115191384/217167277-8205fdbc-0ebe-45dd-9a20-363c8430edb0.png)
