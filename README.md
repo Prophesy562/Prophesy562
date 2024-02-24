@@ -16,4 +16,4 @@ You can click the Preview link to take a look at your changes.
 ![Reskined CLothing](https://github.com/Prophesy562/Prophesy562/assets/115191384/0658581e-85c3-4acb-9b2c-3651832186a4)
 ![Jet Skis](https://github.com/Prophesy562/Prophesy562/assets/115191384/5a1e337f-0310-4b18-a5f3-a9d40aae79a3)
 ![Reskinned Helicopters](https://github.com/Prophesy562/Prophesy562/assets/115191384/eab0d22c-507b-44b5-8e82-e3002a73e2b3)
-![Speed Boats](https://github.com/Prophesy562/Prophesy562/assets/115191384/f0c8067c-838d-4b8b-b513-efa7be2f2139)
+![Speed Boats](https://github.com/Prophesy562/Prophesy562/assets/115191384/f0c8067c-838d-4b8b-b513-efa7be2f2139.png)
